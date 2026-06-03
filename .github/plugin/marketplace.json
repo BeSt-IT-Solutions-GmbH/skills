@@ -1,0 +1,13 @@
+{
+  "name": "best-skills",
+  "owner": {
+    "name": "BeSt IT Solutions GmbH"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./plugins/skills",
+      "description": "Engineering and productivity agent skills for real software work: TDD, diagnosis, architecture review, grilling sessions, PRD/issue creation, and more."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "Engineering and productivity agent skills for real software work: TDD, diagnosis, architecture review, grilling sessions, PRD/issue creation, and more.",
+  "keywords": ["engineering", "productivity", "tdd", "debugging", "architecture", "workflow"],
+  "author": {
+    "name": "BeSt IT Solutions GmbH"
+  },
+  "repository": "https://github.com/BeSt-IT-Solutions-GmbH/skills",
+  "license": "MIT",
+  "skills": ["./skills/engineering/", "./skills/productivity/"]
+}
