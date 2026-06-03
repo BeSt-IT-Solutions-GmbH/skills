@@ -8,6 +8,9 @@ Two buckets are published:
 
 - `engineering/` — daily code work (10 skills)
 - `productivity/` — daily non-code workflow tools (4 skills)
+- `misc/` — kept around but rarely used (4 skills)
+- `personal/` — tied to my own setup, not promoted
+- `in-progress/` — drafts not yet ready to ship
 
 Every published skill must:
 
@@ -17,14 +20,11 @@ Every published skill must:
 
 ## Archived skills (not published)
 
-Archived skills live under `skills/` at the repo root:
+Archived skills that are no longer used:
 
-- `misc/` — kept around but rarely used
-- `personal/` — tied to my own setup, not promoted
-- `in-progress/` — drafts not yet ready to ship
 - `deprecated/` — no longer used
 
-Skills in these buckets must NOT appear in `plugin.json`, `marketplace.json`, or the published README.
+These live under `skills/` at the repo root and must NOT appear in `plugin.json`, `marketplace.json`, or the published README.
 
 ## Marketplace manifest
 

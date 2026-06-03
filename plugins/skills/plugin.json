@@ -8,5 +8,5 @@
   },
   "repository": "https://github.com/BeSt-IT-Solutions-GmbH/skills",
   "license": "MIT",
-  "skills": ["./skills/engineering/", "./skills/productivity/"]
+  "skills": ["./skills/engineering/", "./skills/productivity/", "./skills/misc/", "./skills/personal/", "./skills/in-progress/"]
 }
